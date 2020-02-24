@@ -3,6 +3,10 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/2.小游戏" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.web项目" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.数据可视化" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flappy bird" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.0.pygame" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

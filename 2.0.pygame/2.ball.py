@@ -5,7 +5,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((640, 480))
 
-ball = pygame.image.load('./1.jpg')
+ball = pygame.image.load('/Users/steveyu/VscodeProjects/python/2.0.pygame/1.jpg')
 
 ball_rect = ball.get_rect()
 
